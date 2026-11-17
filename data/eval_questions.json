@@ -1,0 +1,125 @@
+[
+  {
+    "question": "Who can file ITR-1 Sahaj and what is the income limit?",
+    "expected_source": "ITR-1"
+  },
+  {
+    "question": "Can an NRI file ITR-1?",
+    "expected_source": "ITR-1"
+  },
+  {
+    "question": "What is the limit of agricultural income allowed in ITR-1?",
+    "expected_source": "ITR-1"
+  },
+  {
+    "question": "How do I opt out of the new tax regime while filing ITR-1?",
+    "expected_source": [
+      "ITR-1",
+      "FAQs on New Tax"
+    ]
+  },
+  {
+    "question": "Within how many days must I e-verify my return after filing?",
+    "expected_source": "ITR-1"
+  },
+  {
+    "question": "Where should the signed ITR-V be sent by post?",
+    "expected_source": "ITR-1"
+  },
+  {
+    "question": "What happens if I choose Pay Later for my tax payment?",
+    "expected_source": "ITR-1"
+  },
+  {
+    "question": "What are the prerequisites to file ITR-1 online?",
+    "expected_source": "ITR-1"
+  },
+  {
+    "question": "From which date do the new GST rates apply?",
+    "expected_source": "Press Release"
+  },
+  {
+    "question": "What is the new GST rate structure after the 56th GST Council meeting?",
+    "expected_source": "Press Release"
+  },
+  {
+    "question": "Is GST charged on individual health insurance policies?",
+    "expected_source": "Press Release"
+  },
+  {
+    "question": "How quickly will simplified GST registration be granted to small low-risk businesses?",
+    "expected_source": "Press Release"
+  },
+  {
+    "question": "What percentage of provisional refund is sanctioned for inverted duty structure?",
+    "expected_source": "Press Release"
+  },
+  {
+    "question": "What is the last date for filing backlog appeals before the GSTAT?",
+    "expected_source": "Press Release"
+  },
+  {
+    "question": "On what basis is GST valued for pan masala and cigarettes?",
+    "expected_source": "Press Release"
+  },
+  {
+    "question": "What is the helpdesk number for GST queries?",
+    "expected_source": "Goods & Services Tax"
+  },
+  {
+    "question": "Which form is used for the quarterly statement of composition taxpayers?",
+    "expected_source": "Goods & Services Tax"
+  },
+  {
+    "question": "What is the new integrated payment module on the e-filing portal?",
+    "expected_source": "Home _ Income Tax"
+  },
+  {
+    "question": "How do I file the Foreign Assets of Small Taxpayers Disclosure Scheme declaration?",
+    "expected_source": "Home _ Income Tax"
+  },
+  {
+    "question": "What is the due date of Form 133 for the quarter ending September 2026?",
+    "expected_source": "Home _ Income Tax"
+  },
+  {
+    "question": "What is the best biryani in Jaipur?",
+    "expected_source": null
+  },
+  {
+    "question": "Who won the cricket match yesterday?",
+    "expected_source": null
+  },
+  {
+    "question": "How many calories are in a banana?",
+    "expected_source": null
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "expected_source": null
+  },
+  {
+    "question": "How do I bake a chocolate cake?",
+    "expected_source": null
+  },
+  {
+    "question": "What is the weather forecast for New York City tomorrow?",
+    "expected_source": null
+  },
+  {
+    "question": "i am an nri should i fill tax?",
+    "expected_source": null
+  },
+  {
+    "question": "if i do not fill tax what happen?",
+    "expected_source": null
+  },
+  {
+    "question": "why govt need  tax?",
+    "expected_source": null
+  },
+  {
+    "question": "should i fill tax?",
+    "expected_source": null
+  }
+]

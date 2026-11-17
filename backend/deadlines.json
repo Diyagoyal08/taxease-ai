@@ -1,0 +1,16 @@
+[
+  {"id": "gstr1", "name": "GSTR-1 (sales details)", "category": "GST", "type": "monthly", "day": 11},
+  {"id": "gstr3b", "name": "GSTR-3B (summary and tax payment)", "category": "GST", "type": "monthly", "day": 20},
+  {"id": "gstr9", "name": "GSTR-9 (annual GST return)", "category": "GST", "type": "yearly", "month": 12, "day": 31},
+  {"id": "form16", "name": "Employer issues Form 16", "category": "Income Tax", "type": "yearly", "month": 6, "day": 15},
+  {"id": "adv-jun", "name": "Advance tax instalment 1", "category": "Income Tax", "type": "yearly", "month": 6, "day": 15},
+  {"id": "adv-sep", "name": "Advance tax instalment 2", "category": "Income Tax", "type": "yearly", "month": 9, "day": 15},
+  {"id": "adv-dec", "name": "Advance tax instalment 3", "category": "Income Tax", "type": "yearly", "month": 12, "day": 15},
+  {"id": "adv-mar", "name": "Advance tax instalment 4", "category": "Income Tax", "type": "yearly", "month": 3, "day": 15},
+  {"id": "itr12", "name": "ITR filing (salaried, ITR-1 and ITR-2)", "category": "Income Tax", "type": "yearly", "month": 7, "day": 31},
+  {"id": "itr34", "name": "ITR filing (business or professional, ITR-3 and ITR-4)", "category": "Income Tax", "type": "yearly", "month": 8, "day": 31},
+  {"id": "tds", "name": "TDS return filing", "category": "Income Tax", "type": "quarterly", "quarter": 1, "month": 7, "day": 31},
+  {"id": "tds2", "name": "TDS return filing", "category": "Income Tax", "type": "quarterly", "quarter": 2, "month": 10, "day": 31},
+  {"id": "tds3", "name": "TDS return filing", "category": "Income Tax", "type": "quarterly", "quarter": 3, "month": 1, "day": 31},
+  {"id": "tds4", "name": "TDS return filing", "category": "Income Tax", "type": "quarterly", "quarter": 4, "month": 5, "day": 31}
+]
